@@ -1,0 +1,335 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="StyleCutzBarberShopWebApp.SiteMaster" %>
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - My ASP.NET Application</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <style>
+       /* Navbar Styling */
+        .navbar {
+            background-color: #2c3e50; /* Dark slate gray for a professional, muted look */
+            border: none;
+    
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .navbar a {
+            color: #ecf0f1 !important; /* Light gray for better contrast */
+            font-size: 16px;
+            font-weight: 500;
+            padding: 15px 20px;
+        }
+
+        .navbar-nav li {
+            margin-right: 15px;
+        }
+
+        .navbar-nav li a:hover {
+            background-color: #34495e; /* Slightly lighter slate gray for hover effect */
+            border-radius: 5px;
+        }
+
+        /* Dropdown Menu Styling */
+        .navbar-nav .dropdown-menu {
+            background-color: #34495e; /* Lighter dark gray for the dropdown */
+            border-radius: 8px;
+            padding: 10px 0;
+            box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+        }
+
+        .navbar-nav .dropdown-menu li a {
+            color: #ecf0f1; /* Light gray for readability */
+            font-size: 14px;
+            padding: 10px 20px;
+        }
+
+        .navbar-nav .dropdown-menu li a:hover {
+            background-color: #2c3e50; /* Darker shade for hover effect */
+            border-radius: 5px;
+        }
+
+        /* Profile Menu */
+        .navbar-nav .navbar-right li a {
+            color: #ecf0f1; /* Light gray */
+            font-size: 16px;
+            font-weight: 500;
+        }
+
+        .navbar-nav .navbar-right li a:hover {
+            background-color: #34495e; /* Matching hover effect */
+            border-radius: 5px;
+        }
+
+        /* Mobile Menu */
+        .navbar-toggle {
+            border: none;
+            background-color: transparent;
+        }
+
+        .icon-bar {
+            background-color: #ecf0f1; /* Light gray for the mobile menu icon */
+        }
+        .dropdown-menu-right {
+            position: absolute;
+            right: 100%; /* Moves the inner dropdown to the right of the parent */
+            top: 0;
+        }
+        .footer a {
+        color: #ecf0f1;
+        text-decoration: none;
+        font-weight: normal;
+        }
+        .footer a:hover {
+            color: #3498db; /* Change to any color you prefer on hover */
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <form runat="server">
+        <asp:HiddenField ID="hfCancelAppointmentClicked" runat="server" />
+
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see https://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+        <div class="navbar navbar-inverse navbar-fixed-top" runat="server">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" runat="server">Style Cutz</a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a runat="server" href="~/">Home</a></li>
+                        <li><a runat="server" href="~/About">About</a></li>
+                        <li><a runat="server" href="~/Services">Services</a></li>
+                        <li><a runat="server" href="~/Barbers">Barbers</a></li>
+                        <li><a runat="server" href="~/Ratings and reviews"> Reviews</a></li>
+                        <li><a runat="server" href="~/Contact">Contact</a></li>
+                        <li class="nav-item dropdown" id="ddl" runat="server" visible="false">
+                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" runat="server" id="dashboard">
+                                Dashboard <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu" style="background-color:#005bb5">
+                                <!-- Appointments Section -->
+                                <li class="nav-item dropdown">
+                                    <a class="dropdown-item dropdown-toggle" href="#" id="appointmentOptions" data-toggle="dropdown" onclick="showInnerDropdown(event, 'appointmentOptionsDropdown')">Appointment Options <span class="caret"></span></a>
+                                    <ul class="dropdown-menu dropdown-menu-right" id="appointmentOptionsDropdown">
+                                        <li id="barber1" class="nav-item dropdown" runat="server">
+                                            <a class="dropdown-item" href="/Private/Booking/SelectServices.aspx">Book Appointment</a>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="dropdown-item" href="/Private/Booking/ViewAppointment.aspx">View Appointment</a>
+                                        </li>
+                                        <li id="barber2" class="nav-item dropdown" runat="server">
+                                            <a class="dropdown-item" href="/Private/Booking/CancelAppointment.aspx" onclick="document.cookie='cancelClicked=true; path=/'; keepDropdownOpen(event)">Cancel Appointment</a>
+                                        </li>
+                                        <li id="barber3" class="nav-item dropdown" runat="server">
+                                            <a class="dropdown-item" href="/Private/Booking/Update/UpdateAppointment.aspx" onclick="document.cookie='updateClicked=true; path=/'; keepDropdownOpen(event)">Update Appointment</a>
+                                        </li>
+                                        <li id="barber4" class="nav-item dropdown" runat="server">
+                                            <a class="dropdown-item" href="/Private/Rating_Page.aspx" onclick="keepDropdownOpen(event)">Rate Appointment</a>
+                                        </li>
+                                        <li id="Li6" class="nav-item dropdown" runat="server">
+                                            <a class="dropdown-item" href="/Private/CreateCustomer" onclick="keepDropdownOpen(event)">Create New Customer</a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                <!-- POS Section -->
+                                <li id="posLink" class="nav-item dropdown" runat="server">
+                                    <a class="dropdown-item" runat="server" href="~/Private/Admin/POS/MakePayment">Make Sale</a>
+                                </li>
+
+                                <!-- Reports Section -->
+                                <li id="report" class="nav-item dropdown" runat="server">
+                                    <a class="dropdown-item" runat="server" href="~/Private/Manager/Reports">Reports</a>
+                                </li>
+
+                                <!-- Add Options Section -->
+                                <li class="nav-item dropdown">
+                                    <a class="dropdown-item dropdown-toggle" href="#" id="addOptions"  data-toggle="dropdown" onclick="showInnerDropdown(event, 'addOptionsDropdown')">Add Options <span class="caret"></span></a>
+                                    <ul class="dropdown-menu dropdown-menu-right" id="addOptionsDropdown">
+                                        <li id="A1" class="nav-item dropdown" runat="server">
+                                            <a class="dropdown-item" runat="server" href="~/Private/Admin/AddBarber" onclick="document.cookie='cancelClicked=true; path=/'; keepDropdownOpen(event)">Add Employee</a>
+                                        </li>
+                                        <li id="A2" class="nav-item dropdown" runat="server">
+                                            <a class="dropdown-item" runat="server" href="~/Private/Admin/AddProduct" onclick="document.cookie='cancelClicked=true; path=/'; keepDropdownOpen(event)">Add Product</a>
+                                        </li>
+                                        <li id="A3" class="nav-item dropdown" runat="server">
+                                            <a class="dropdown-item" runat="server" href="~/Private/Admin/AddService" onclick="document.cookie='cancelClicked=true; path=/'; keepDropdownOpen(event)">Add Service</a>
+                                        </li>
+                                        <li id="A4" class="nav-item dropdown" runat="server">
+                                            <a class="dropdown-item" runat="server" href="~/Private/Admin/AddSupplier" onclick="document.cookie='cancelClicked=true; path=/'; keepDropdownOpen(event)">Add Supplier</a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                <!-- Orders Section -->
+                                <li class="nav-item dropdown">
+                                    <a class="dropdown-item dropdown-toggle" href="#" id="orderOptions"  data-toggle="dropdown" onclick="showInnerDropdown(event, 'orderOptionsDropdown')">Order Options <span class="caret"></span></a>
+                                    <ul class="dropdown-menu dropdown-menu-right" id="orderOptionsDropdown">
+                                        <li id="Li1" class="nav-item dropdown" runat="server">
+                                            <a class="dropdown-item" runat="server" href="~/Private/Manager/ProductSupplier">Make Order</a>
+                                        </li>
+                                        <li id="Li2" class="nav-item dropdown" runat="server">
+                                            <a class="dropdown-item" runat="server" href="~/Private/Manager/CancelOrder">Cancel Order</a>
+                                        </li>
+                                        <li id="Li3" class="nav-item dropdown" runat="server">
+                                            <a class="dropdown-item" runat="server" href="~/Private/Manager/MakeOrderPayment">Make Order Payment</a>
+                                        </li>
+                                        <li id="Li4" class="nav-item dropdown" runat="server">
+                                            <a class="dropdown-item" runat="server" href="~/Private/Manager/ViewOrder">View Order</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <!-- View Section -->
+                                <li class="nav-item dropdown" id="Li5" runat="server">
+                                    <a class="dropdown-item" runat="server" href="~/Private/Manager/ViewProducts">View Products</a>
+                                </li>
+                                <li id="Li7" class="nav-item dropdown" runat="server">
+                                    <a class="dropdown-item" runat="server" href="~/Private/Manager/UpdateService">Update Supplier</a>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <!-- Add JavaScript to prevent closing the parent dropdown -->
+                        <script>
+                            // Function to prevent the dropdown from closing
+                            function keepDropdownOpen(event) {
+                                event.stopPropagation();
+                            }
+
+                            // Function to show the inner dropdown
+                            function showInnerDropdown(event, dropdownId) {
+                                event.stopPropagation();
+                                var innerDropdown = document.getElementById(dropdownId);
+                                if (innerDropdown) {
+                                    // Toggle the inner dropdown visibility
+                                    $(innerDropdown).toggle();
+                                }
+                            }
+
+                            // Optional: To close other dropdowns when clicking outside
+                            $(document).click(function (event) {
+                                if (!$(event.target).closest('.dropdown, .dropdown-menu').length) {
+                                    $('.dropdown-menu').hide(); // Hide all dropdowns when clicking outside
+                                }
+                            });
+
+                            // Prevent clicks on inner dropdowns from closing their parent
+                            $('.dropdown-menu').click(function (event) {
+                                event.stopPropagation();
+                            });
+                        </script>
+
+                    </ul>
+                    <asp:LoginView runat="server" ViewStateMode="Disabled">
+                        <AnonymousTemplate>
+                            <ul class="nav navbar-nav navbar-right">
+                                <li><a runat="server" href="~/Account/Register">Sign up</a></li>
+                                <li><a runat="server" href="~/Account/Login">Log in</a></li>
+                            </ul>
+                        </AnonymousTemplate>
+                        <LoggedInTemplate>
+                            <ul class="nav navbar-nav navbar-right">
+                                <li>
+                                    <a runat="server" href="~/Account/Manage" title="Manage your account" ToolTip="Click to manage your account">
+                                        <img src="/Images/profile.png" alt="Profile Icon" style="width: 20px; height: 20px; vertical-align: middle;"/>
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <asp:LoginStatus runat="server" LogoutAction="Redirect" LogoutText="Log out" LogoutPageUrl="~/" OnLoggingOut="Unnamed_LoggingOut" />
+                                </li>
+                            </ul>
+                        </LoggedInTemplate>
+                    </asp:LoginView>
+                </div>
+            </div>
+        </div>
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            
+            <footer class="footer" style="background-color: #2c3e50; color: #ecf0f1; padding: 20px 0; text-align: center; width: 100%; margin-top: 1%;left: 50%;
+                        transform: translateX(-7%); width: 116%;">
+                <div class="container-fluid"> <!-- Use container-fluid to span the full width -->
+                    <div class="row">
+                        <div class="col-md-3" style ="margin-left:37%">
+                            <h5>Quick Links</h5>
+                            <ul style="list-style: none; padding-left: 0;">
+                                <li><a runat="server" href="~/About" style="color: #ecf0f1; text-decoration: none; font-weight: normal;">About Us</a></li>
+                                <li><a runat="server" href="~/Services" style="color: #ecf0f1; text-decoration: none; font-weight: normal;">Services</a></li>
+                                <li><a runat="server" href="~/Barbers" style="color: #ecf0f1; text-decoration: none; font-weight: normal;">Barbers</a></li>
+                                <li><a runat="server" href="~/Contact" style="color: #ecf0f1; text-decoration: none; font-weight: normal;">Contact</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-3" style ="margin-left:37%">
+                            <h5>Follow Us</h5>
+                            <ul style="list-style: none; padding-left: 0;">
+                                <li><a href="https://www.facebook.com/stylecutzbarbershop.1" style="color: #ecf0f1; text-decoration: none; font-weight: normal;">Facebook</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-3" style ="margin-left:37%">
+                            <h5>Find Us</h5>
+                            <ul style="list-style: none; padding-left: 0;">
+                                <li><a href="https://www.google.com/maps/place/Style+Cutz+Barber+Shop/@-29.61559,30.3850278,16z/data=!4m10!1m2!2m1!1sstylcuts+scottsville!3m6!1s0x1ef6bc53ccb3d9d7:0x429e04301ea50cab!8m2!3d-29.61559!4d30.39404!15sChRzdHlsY3V0cyBzY290dHN2aWxsZVoWIhRzdHlsY3V0cyBzY290dHN2aWxsZZIBC2JhcmJlcl9zaG9wmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVI1TFRSUE1FVlJFQUXgAQA!16s%2Fg%2F11gfh7bfpr?entry=ttu&g_ep=EgoyMDI0MTExNy4wIKXMDSoASAFQAw%3D%3D" style="color: #ecf0f1; text-decoration: none; font-weight: normal;">Location</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <p>&copy; <%: DateTime.Now.Year %> - Style Cutz Barber Shop. All rights reserved.</p>
+            </footer>
+        </div>
+    </form>
+    <!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<!-- Bootstrap JavaScript -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+
+   <script type="text/javascript">
+       // Handle the Cancel Appointment link
+       document.getElementById("cancelAppointmentLink").addEventListener("click", function (event) {
+           event.preventDefault(); // Prevent the default action
+           document.cookie = "cancelClicked=true; path=/"; // Set the cookie
+           window.location.href = "/Private/Booking/CancelAppointment.aspx"; // Redirect
+       });
+
+       // Handle the Update Appointment link
+       document.querySelector("a[href='/Private/Booking/Update/UpdateAppointment.aspx']").addEventListener("click", function (event) {
+           event.preventDefault(); // Prevent the default action (if needed)
+           document.cookie = "updateClicked=true; path=/"; // Set the cookie
+           window.location.href = "/Private/Booking/Update/UpdateAppointment.aspx"; // Redirect
+       });
+   </script>>
+</body>
+</html>

@@ -1,0 +1,592 @@
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\StyleCutzBarberShopWebApp.dll.config
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\StyleCutzBarberShopWebApp.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\StyleCutzBarberShopWebApp.pdb
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\csc.exe
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\csc.exe.config
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\csc.rsp
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\csi.exe
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\csi.exe.config
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\csi.rsp
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.Console.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.Net.Http.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\vbc.exe
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\vbc.exe.config
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\vbc.rsp
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Antlr3.Runtime.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\EntityFramework.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Newtonsoft.Json.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Owin.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\System.Web.Helpers.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\System.Web.Mvc.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\System.Web.Optimization.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\System.Web.Razor.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\WebGrease.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\System.Web.Optimization.xml
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Newtonsoft.Json.xml
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\System.Web.Razor.xml
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.xml
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\System.Web.Helpers.xml
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\System.Web.Mvc.xml
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\EntityFramework.xml
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.xml
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\obj\Debug\StyleCutzBarberShopWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\obj\Debug\StyleCutzBarberShopWebApp.csproj.CopyComplete
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\obj\Debug\StyleCutzBarberShopWebApp.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\obj\Debug\StyleCutzBarberShopWebApp.pdb
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\bin\AjaxControlToolkit.dll
+C:\Users\Student\Desktop\Tasks\Web Applications\StyleCutzBarberShopWebApp\obj\Debug\StyleCutzBarberShopWebApp.csproj.AssemblyReference.cache
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\StyleCutzBarberShopWebApp.dll.config
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\StyleCutzBarberShopWebApp.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\StyleCutzBarberShopWebApp.pdb
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\csc.exe
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\csc.exe.config
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\csc.rsp
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\csi.exe
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\csi.exe.config
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\csi.rsp
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.Console.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.Net.Http.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\vbc.exe
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\vbc.exe.config
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\vbc.rsp
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\AjaxControlToolkit.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Antlr3.Runtime.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\EntityFramework.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Newtonsoft.Json.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Owin.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\System.Web.Helpers.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\System.Web.Mvc.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\System.Web.Optimization.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\System.Web.Razor.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\WebGrease.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\System.Web.Optimization.xml
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Newtonsoft.Json.xml
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\System.Web.Razor.xml
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.xml
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\System.Web.Helpers.xml
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\System.Web.Mvc.xml
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\EntityFramework.xml
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.xml
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\obj\Debug\StyleCutzBarberShopWebApp.csproj.AssemblyReference.cache
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\obj\Debug\StyleCutzBarberShopWebApp.csproj.CoreCompileInputs.cache
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\obj\Debug\StyleCutzBarberShopWebApp.csproj.CopyComplete
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\obj\Debug\StyleCutzBarberShopWebApp.dll
+C:\Users\222012342\Downloads\Website\StyleCutzBarberShopWebApp\obj\Debug\StyleCutzBarberShopWebApp.pdb
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\StyleCutzBarberShopWebApp.dll.config
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\StyleCutzBarberShopWebApp.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\StyleCutzBarberShopWebApp.pdb
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\csc.exe
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\csc.exe.config
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\csc.rsp
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\csi.exe
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\csi.exe.config
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\csi.rsp
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.Console.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.Net.Http.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\vbc.exe
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\vbc.exe.config
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\vbc.rsp
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\AjaxControlToolkit.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Antlr3.Runtime.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\EntityFramework.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Newtonsoft.Json.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Owin.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\System.Web.Helpers.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\System.Web.Mvc.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\System.Web.Optimization.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\System.Web.Razor.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\WebGrease.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\System.Web.Optimization.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Newtonsoft.Json.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\System.Web.Razor.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\System.Web.Helpers.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\System.Web.Mvc.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\EntityFramework.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\obj\Debug\StyleCutzBarberShopWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\obj\Debug\StyleCutzBarberShopWebApp.csproj.CopyComplete
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\obj\Debug\StyleCutzBarberShopWebApp.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\obj\Debug\StyleCutzBarberShopWebApp.pdb
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\StyleCutzBarberShopWebApp.dll.config
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\StyleCutzBarberShopWebApp.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\StyleCutzBarberShopWebApp.pdb
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\csc.exe
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\csc.exe.config
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\csc.rsp
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\csi.exe
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\csi.exe.config
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\csi.rsp
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.Console.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.Net.Http.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\vbc.exe
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\vbc.exe.config
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\vbc.rsp
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\AjaxControlToolkit.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Antlr3.Runtime.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\EntityFramework.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Newtonsoft.Json.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Owin.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\System.Web.Helpers.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\System.Web.Mvc.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\System.Web.Optimization.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\System.Web.Razor.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\WebGrease.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\System.Web.Optimization.xml
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Newtonsoft.Json.xml
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\System.Web.Razor.xml
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.xml
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\System.Web.Helpers.xml
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\System.Web.Mvc.xml
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\EntityFramework.xml
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.xml
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\obj\Debug\StyleCutzBarberShopWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\obj\Debug\StyleCutzBarberShopWebApp.csproj.CopyComplete
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\obj\Debug\StyleCutzBarberShopWebApp.dll
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\obj\Debug\StyleCutzBarberShopWebApp.pdb
+C:\Users\Student\Desktop\Tasks\StyleCutzBarberShopWebApp\obj\Debug\StyleCutzBarberShopWebApp.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\System.Web.Http.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\System.Web.Http.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\obj\Debug\StyleCutzBarberShopWebApp.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\StyleCutzBarberShopWebApp.dll.config
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\StyleCutzBarberShopWebApp.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\StyleCutzBarberShopWebApp.pdb
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\csc.exe
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\csc.exe.config
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\csc.rsp
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\csi.exe
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\csi.exe.config
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\csi.rsp
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.Console.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.Net.Http.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\vbc.exe
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\vbc.exe.config
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\vbc.rsp
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\AjaxControlToolkit.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Antlr3.Runtime.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\EntityFramework.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Newtonsoft.Json.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Owin.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\System.Web.Helpers.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\System.Web.Http.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\System.Web.Mvc.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\System.Web.Optimization.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\System.Web.Razor.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\WebGrease.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\System.Web.Http.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\System.Web.Optimization.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Newtonsoft.Json.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\System.Web.Razor.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\System.Web.Helpers.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\System.Web.Mvc.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\EntityFramework.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\obj\Debug\StyleCutzBarberShopWebApp.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\obj\Debug\StyleCutzBarberShopWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\obj\Debug\StyleCutzBarberShopWebApp.csproj.CopyComplete
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\obj\Debug\StyleCutzBarberShopWebApp.dll
+C:\Users\Student\Desktop\StyleCutzBarberShopWebApp\StyleCutzBarberShopWebApp\obj\Debug\StyleCutzBarberShopWebApp.pdb
